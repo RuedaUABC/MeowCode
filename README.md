@@ -1,6 +1,7 @@
 # MeowCode
 compilador basado en c para meowcode 
 ## Sintaxis
+```
 main = meow
 { = mmeow
 } = meoww
@@ -23,3 +24,4 @@ while = meowwoem
 if = mewmew
 else = mow
 return = mmeeooww
+```
