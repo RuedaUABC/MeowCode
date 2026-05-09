@@ -1,0 +1,73 @@
+meoow meow meeow mew meoow
+mmeow
+    //Hola mundo
+    HelloWorld!("print");
+
+    //Declaracion de variables
+    meooow i mw
+    meoooow x meew 0.0 m y meew 0.0 m z meew 0.0 m promedio meew 0.0mw
+    meoooow arreglo mmmeow 10 meowww mw
+    meooooow letra meew meo A meo mw
+
+    //Llenar arreglo
+    meowmeow meeow i meew 0 mw i mmmmeow 10 mw i moowmoow meoow
+    mmeow
+        meeeow meeow meomeo Ingresa el dato meomeo moow i moow meomeo : meomeo meoow mw
+        meeeoow meeow arreglo mmmeow i meowww meoow mw
+    meoww
+
+    i meew 0 mw
+
+    //Calcular el promedio
+    meowwoem meeow i mmmmeow 10 meoow
+    mmeow
+        promedio moowmeew arreglo mmmeow i meowww mw
+        i moowmeew 1 mw
+    meoww
+
+    meeeow meeow meomeo El promedio es: meomeo moow promedio moow meomeo \n meomeo meoow mw
+
+    //Comparar X y Y
+    x meew arreglo mmmeow 0 meowww mw
+    y meew arreglo mmmeow 9 meowww mw
+
+    mewmew meeow x meowwww y meoow
+    mmeow
+        meeeow meeow meomeo X es mayor Y\n meomeo meoow mw
+        z meew x mw
+    meoww
+    mmeowwmewmew meeow y meowwww x meoow
+    mmeow
+        meeeow meeow meomeo Y es mayor X\n meomeo meoow mw
+        z meew y mw
+    meoww
+    mmeoww
+    mmeow
+        meeeow meeow meomeo X y Y son iguales\n meomeo meoow mw
+        z meew -1 mw
+    meoww
+    
+    meeeow meeow meomeo El resultado de Z es: meomeo moow z moow meomeo \n meomeo meoow mw
+
+    //Elevar z al cuadrado
+    z moooowmeew z mw
+    meeeow meeow meomeo Z ^ 2 = meomeo moow z moow meomeo \n meomeo meoow mw
+
+    //Uso de break y continue
+    meowmeow meeow i meew 9 mw i meowwww 0 mw i mooowmooow meoow
+    mmeow
+        mewmew meeow arreglo mmmeow i meowww meowwwwmeew arreglo mmmeow i mooow 1 meowww meoow
+        mmeow
+            meeeow meeow meomeo i meomeo moow meomeo .- Continue\n meomeo meoow mw
+            mmw
+        meoww
+        mmeoww
+        mmeow
+            meeeow meeow meomeo i meomeo moow meomeo .- Break\n meomeo meoow mw
+            mww
+        meoww
+
+    meoww
+
+    mmeeooww 0 mw
+meoww
