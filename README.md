@@ -21,6 +21,7 @@ flaot = meoooow
 char = meooooow
 
 /*  --- Operadores aritmeticos --- */
+= = meew
 + = moow
 - = mooow
 * = moooow
@@ -60,7 +61,6 @@ print = meeeow
 /* --- Operadores relacionales --- */
 && = meooww
 || = mmeeow
-= = meew
 == = meewmeew
 != = meemeew
 < = mmmmeow
