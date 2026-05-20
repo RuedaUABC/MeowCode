@@ -1,8 +1,7 @@
 # MeowCode
-compilador basado en c para meowcode 
+Compilador basado en C para meowcode 
 ## Sintaxis
 ```
-The MeowCode reserve word's are:
 
 main = meow
 
@@ -20,20 +19,23 @@ int = meooow
 flaot = meoooow
 char = meooooow
 
-/*  --- Operadores aritmeticos --- */
-= = meew
+/*  --- Operadores aritméticos --- */
 + = moow
 - = mooow
 * = moooow
 / = mooooow
 ^ = moooooow
 % = mooooooow
+
+/* --- Operadores aritméticos compuestos --- */
 += = moowmeew
 -= = mooowmeew
 *= = moooowmeew
 /= = mooooowmeew
 ^= = moooooowmeew
 %= = mooooooowmeew
+
+/* --- Incremento y decremento --- */
 ++ = moowmoow
 -- = mooowmooow
 
@@ -58,9 +60,13 @@ continue = mmw
 input = meeeoow
 print = meeeow
 
-/* --- Operadores relacionales --- */
+
+/* --- Operadores lógicos --- */
 && = meooww
 || = mmeeow
+
+/* --- Operadores relacionales --- */
+= = meew
 == = meewmeew
 != = meemeew
 < = mmmmeow
